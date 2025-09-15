@@ -105,6 +105,8 @@ BERT (Transformers)	Mixed	91% ✅
 
 👥 Contributors
 
+Amr Hassan 
+
 Youssef Diaa
 
 Ahmed Nageh
@@ -112,8 +114,6 @@ Ahmed Nageh
 Alaa Faisal
 
 Walaa Magdy
-
-Amr Hassan 
 
 Youmna Ayman
 
