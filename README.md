@@ -1,4 +1,8 @@
-# Project-ITI
+<p align="center">
+  <img src="assets/readme-banner.jpg" alt="Bilingual Sentiment Analysis project overview" width="100%" />
+</p>
+
+# Bilingual Sentiment Analysis
 
 📝 Sentiment Analysis Project
 📌 Overview
